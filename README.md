@@ -22,8 +22,11 @@ By the end of the course, you will be able to customize animations for your web 
 To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for web developers and designers looking to add cool animation to their projects. Some experience with HTML, CSS, and JavaScript is required. Basic knowledge of SVG would be an advantage but not mandatory.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
-dfsdfdfgdfgdfgdfgdfgdfg
+### Minimum Hardware Requirements
+<UL>
+<LI>OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows</LI>
+<LI>Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)</LI>
+<LI>Memory: 4GB</LI></UL>
 
 ## Related Products
 * [Extended Reality (XR) - Building AR | VR | MR Projects [Video]](https://www.packtpub.com/game-development/extended-reality-xr-building-ar-vr-mr-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559694)
